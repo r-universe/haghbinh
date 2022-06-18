@@ -1,0 +1,10 @@
+[
+  {
+    "package": "Rfssa",
+    "oncran": true
+  },
+  {
+    "package": "Rsfar",
+    "oncran": true
+  }
+]
