@@ -1,5 +1,9 @@
 [
   {
+    "package": "combinIT",
+    "oncran": true
+  },
+  {
     "package": "Rfssa",
     "oncran": true
   },
