@@ -1,14 +1,14 @@
 [
   {
-    "package": "Rsfar",
-    "oncran": true
-  },
-  {
     "package": "combinIT",
     "oncran": true
   },
   {
     "package": "Rfssa",
+    "oncran": true
+  },
+  {
+    "package": "Rsfar",
     "oncran": true
   }
 ]

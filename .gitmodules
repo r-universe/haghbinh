@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "Rsfar"]
-	path = Rsfar
-	url = https://github.com/haghbinh/rsfar
-	shallow = true
-	registered = true
 [submodule "combinIT"]
 	path = combinIT
 	url = https://github.com/haghbinh/combinit
@@ -16,5 +11,10 @@
 [submodule "Rfssa"]
 	path = Rfssa
 	url = https://github.com/haghbinh/rfssa
+	shallow = true
+	registered = true
+[submodule "Rsfar"]
+	path = Rsfar
+	url = https://github.com/haghbinh/rsfar
 	shallow = true
 	registered = true
