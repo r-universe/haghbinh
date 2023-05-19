@@ -8,6 +8,11 @@
 	url = https://github.com/haghbinh/combinit
 	shallow = true
 	registered = true
+[submodule "ftaproxim"]
+	path = ftaproxim
+	url = https://github.com/cran/ftaproxim
+	shallow = true
+	registered = true
 [submodule "Rfssa"]
 	path = Rfssa
 	url = https://github.com/haghbinh/rfssa
