@@ -8,6 +8,9 @@
 [submodule "ftaproxim"]
 	path = ftaproxim
 	url = https://github.com/cran/ftaproxim
+[submodule "ReMFPCA"]
+	path = ReMFPCA
+	url = https://github.com/haghbinh/remfpca
 [submodule "Rfssa"]
 	path = Rfssa
 	url = https://github.com/haghbinh/rfssa
