@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "combinIT"]
-	path = combinIT
-	url = https://github.com/haghbinh/combinit
-[submodule "ftaproxim"]
-	path = ftaproxim
-	url = https://github.com/cran/ftaproxim
 [submodule "ReMFPCA"]
 	path = ReMFPCA
 	url = https://github.com/haghbinh/remfpca
@@ -17,3 +11,9 @@
 [submodule "Rsfar"]
 	path = Rsfar
 	url = https://github.com/haghbinh/rsfar
+[submodule "combinIT"]
+	path = combinIT
+	url = https://github.com/haghbinh/combinit
+[submodule "ftaproxim"]
+	path = ftaproxim
+	url = https://github.com/cran/ftaproxim
