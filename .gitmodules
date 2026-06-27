@@ -5,9 +5,6 @@
 [submodule "ReMFPCA"]
 	path = ReMFPCA
 	url = https://github.com/haghbinh/remfpca
-[submodule "Rfssa"]
-	path = Rfssa
-	url = https://github.com/haghbinh/rfssa
 [submodule "Rsfar"]
 	path = Rsfar
 	url = https://github.com/haghbinh/rsfar
